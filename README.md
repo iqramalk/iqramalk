@@ -1,4 +1,4 @@
-![logo](https://github.com/iqramalk/iqramalk/blob/main/AI%20Banner%20(1).png)
+![logo]([https://github.com/iqramalk/iqramalk/blob/main/AI%20Banner%20(1).png](https://github.com/iqramalk/iqramalk/blob/main/AI%20banner%20update.png))
 <h1 align="center">Hi 👋, I'm Iqra Asad</h1>
 <h3 align="center">A passionate learner in AI.</h3>
 
