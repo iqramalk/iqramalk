@@ -1,6 +1,6 @@
 ![logo](https://github.com/iqramalk/iqramalk/blob/main/AI%20banner%20update.png)
 <h1 align="center">Hi 👋, I'm Iqra Asad</h1>
-<h3 align="center">A passionate learner in AI.</h3>
+<h2 align="center">A passionate AI learner .</h2>
 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" >
 
